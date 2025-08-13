@@ -6,6 +6,8 @@
 ```shell
 g++ -o tree tree.c
 ```
+也可以直接使用编译后的文件
+
 使用方法：
 ```shell
 ./tree [选项] [目录]
