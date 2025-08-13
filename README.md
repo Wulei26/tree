@@ -1,12 +1,14 @@
 ## Linux Tree Command Implementation in C
+
 功能：以树状结构递归显示目录内容，模拟Linux tree命令的核心功能
+
 编译方法：
 ```shell
 gcc -o tree tree.c
 ```
 使用方法：
 ```shell
-  ./tree [选项] [目录]
+./tree [选项] [目录]
 ```
 **选项说明：**
 
