@@ -4,7 +4,7 @@
 
 编译方法：
 ```shell
-g++ -o tree tree.c
+g++ -o tree tree.cpp
 ```
 也可以直接使用编译后的文件
 
