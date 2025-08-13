@@ -4,7 +4,7 @@
 
 编译方法：
 ```shell
-gcc -o tree tree.c
+g++ -o tree tree.c
 ```
 使用方法：
 ```shell
